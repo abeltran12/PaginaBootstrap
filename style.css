@@ -30,6 +30,11 @@ h1 {
 	text-align: center;
 }
 
+.seccion-clara{
+	background-color: white;
+	color: black;
+}
+
 .seccion-titulo{
 	font-size: 2rem;
 	padding: 15px 0;
@@ -73,6 +78,26 @@ h1 {
 .sobre-mi .contenedor{
 	max-width: 600px;
 	text-align: center;
+}
+
+/* Experiencia */
+
+.experiencia{
+	padding: 40px;
+}
+
+.experiencia i{
+	font-size: 2.5rem;
+	color: #7ade30;
+	background-color: #0a0a23;
+	padding: 8px 19px;
+	border-radius: 50%;
+}
+
+.experiencia-titulo{
+	font-size: 25px;
+	font-weight: bold;
+	margin: 10 px 0;
 }
 
 /* Responsive */
